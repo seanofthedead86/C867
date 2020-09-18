@@ -1,0 +1,4 @@
+﻿  Roster.cpp
+C:\Users\seanc\Documents\C++\Class Roster\Class Roster\Roster.cpp(103,11): warning C4129: 'S': unrecognized character escape sequence
+C:\Users\seanc\Documents\C++\Class Roster\Class Roster\Roster.cpp(166,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Class Roster.vcxproj -> C:\Users\seanc\Documents\C++\Class Roster\Class Roster\Debug\Class Roster.exe
